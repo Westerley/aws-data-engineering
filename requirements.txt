@@ -1,0 +1,22 @@
+-e .
+aws_cdk.aws_s3
+aws_cdk.aws_glue
+aws_cdk.aws_iam
+aws_cdk.aws_athena
+aws_cdk.aws_kinesisfirehose
+aws_cdk.aws_kinesis
+aws_cdk.aws_rds
+aws_cdk.aws_ec2
+aws_cdk.aws_dms
+aws_cdk.aws_emr
+aws_cdk.aws_redshift
+aws_cdk.aws_mwaa
+aws_cdk.aws_s3_assets
+aws_cdk.aws_s3_deployment
+black
+pre-commit
+fake-web-events
+boto3
+black
+pre-commit
+flake8
